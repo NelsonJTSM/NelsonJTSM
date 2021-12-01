@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 💻 I'm a Software Engineer at Stripe
 - 🔭 I’m currently working on mobile and back-end development.
 - 🌱 I’m currently learning React Native and Flutter.
 - 💬 Ask me about music.
