@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 
 - 💻 I'm a Software Engineer at Stripe
-- 🔭 I’m currently working on mobile and back-end development.
-- 🌱 I’m currently learning React Native and Flutter.
 - 💬 Ask me about music.
 - 📫 How to reach me: Send me a message or email.
 - 😄 Pronouns: he/him
+
+<!-- - 🔭 I’m currently working on mobile and back-end development.
+- 🌱 I’m currently learning React Native and Flutter. -->
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NelsonJTSM&show_icons=true&count_private=true" alt="GitHub stats" width="50%" />
