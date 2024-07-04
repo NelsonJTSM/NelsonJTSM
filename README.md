@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 I'm a Software Engineer at Stripe
+- 💻 I'm a Software Engineer at Abbott
 - 💬 Ask me about music.
 - 📫 How to reach me: Send me a message or email.
 - 😄 Pronouns: he/him
